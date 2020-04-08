@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6{
 }
 /*--header--*/
 .head {
-	background: #F05E6B;
+	background: #d7b7b1;
 }
 .logo{
 	float:left;
@@ -414,7 +414,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 .ser-t b.line{
     margin: 0 auto;
     height: 5px;
-    background: #F05E6B;
+    background: #d7b7b1;
 }
 .service {
     padding: 6em 0 ;
@@ -423,7 +423,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 	font-size: 1.2em;
     text-transform: uppercase;
     line-height: 1.7em;
-    color: #F05E6B;
+    color: #d7b7b1;
     font-weight: 900;
 	margin-bottom: 1em;
 }
@@ -455,7 +455,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 	text-align: center;
 	position: relative;
 	z-index: 1;
-	color: #F05E6B;
+	color: #d7b7b1;
 }
 
 .hi-icon:after {
@@ -610,7 +610,7 @@ ul.callbacks_tabs.callbacks1_tabs {
     position: absolute;
     top: -3px;
     left: 34%;
-    background: #F05E6B;
+    background: #d7b7b1;
 }
 /*--contact--*/
 /*--contact--*/
@@ -625,8 +625,8 @@ ul.callbacks_tabs.callbacks1_tabs {
     height: 35px;
     display: inline-block;
     float: left;
-    border: 2px solid #F05E6B;
-    color: #F05E6B;
+    border: 2px solid #d7b7b1;
+    color: #d7b7b1;
     border-radius: 100px;
     line-height: 2em;
     text-align: center;
@@ -674,7 +674,7 @@ ul.callbacks_tabs.callbacks1_tabs {
   cursor:pointer;
 }
 .grid-contact-in input[type="submit"]:hover {
-	background:#F05E6B;
+	background:#d7b7b1;
 }
 .contact {
   background: #fff;
@@ -691,7 +691,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 	padding:0;
 }
 .address{
-	background: #F05E6B;
+	background: #d7b7b1;
     text-align: center;
     padding: 5em 0;
 }
@@ -776,7 +776,7 @@ figcaption {
 figcaption h3 {
     font-weight: 600;
 	font-size:1.7em;
-    color: #F05E6B;
+    color: #d7b7b1;
     padding: 10px 20px;
     margin-bottom: 0;
     position: relative;
@@ -886,7 +886,7 @@ figcaption a:hover {
 	background:url(../images/img-sprite.png) no-repeat -150px -48px;
 }
 .btm-right:hover {
-	background:#F05E6B;
+	background:#d7b7b1;
 	padding:1em;
 	transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -954,7 +954,7 @@ p.footer-grid {
 }
 p.footer-grid a {
     text-decoration: none;
-    color:#F05E6B;
+    color:#d7b7b1;
 }
 p.footer-grid a:hover {
     color: #fff;
@@ -1137,7 +1137,7 @@ div#bs-example-navbar-collapse-1 {
     display: block;
 }
 div#bs-example-navbar-collapse-1 {
-    background: #F05E6B;
+    background: #d7b7b1;
     margin: 0;
     padding: 0;
     position: absolute;
