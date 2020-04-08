@@ -562,16 +562,16 @@ ul.callbacks_tabs.callbacks1_tabs {
 /*--//service--*/
 /*----*/
 .statistics {
-    background:#000;
+    background:#FFFFFF;
   	padding: 6em 0;
     text-align: center;
 }
 .ser-top1 h3{
-	color:#fff;
+	color:#000;
 }
 .numscroller {
     font-size: 2.5em;
-    color: #fff;
+    color: #FFF;
 }
 .statistics-grid h5 {
     font-size: 1.1em;
